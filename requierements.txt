@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+datetime
+plotly
+pydeck
+geopy
