@@ -6,4 +6,4 @@ plotly
 plotly.express
 pydeck
 geopy
-nominatim
+photon
