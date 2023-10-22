@@ -4,9 +4,9 @@ import requests
 from datetime import datetime
 import plotly.express as px
 import pydeck as pdk
-from geopy.geocoders import Nominatim
+from geopy.geocoders import Photon
 
-geolocator = Nominatim(user_agent="accident_route.py")
+geolocator = Photon(user_agent="measurements")
 
 current_year = datetime.now().year
 
