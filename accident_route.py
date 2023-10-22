@@ -153,7 +153,7 @@ def get_departement_name(numero):
 selected_department_nom = get_departement_name(selected_department)
 
 # coordonnées du département sélectionné
-geolocator = Nominatim(user_agent="geoapiExercises")
+geolocator = Photon(user_agent="geoapiExercises")
 location = geolocator.geocode(f"{selected_department_nom}, France")
 
 if location:
