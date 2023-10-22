@@ -6,6 +6,8 @@ import plotly.express as px
 import pydeck as pdk
 from geopy.geocoders import Nominatim
 
+geolocator = Nominatim(user_agent="accident_route.py")
+
 current_year = datetime.now().year
 
 departement_correspondances = {
