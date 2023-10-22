@@ -3,5 +3,7 @@ pandas
 requests
 datetime
 plotly
+plotly.express
 pydeck
 geopy
+geopy.geocoders
