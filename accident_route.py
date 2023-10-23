@@ -106,13 +106,7 @@ departement_correspondances = {
     "92": "Hauts-de-Seine",
     "93": "Seine-Saint-Denis",
     "94": "Val-de-Marne",
-    "95": "Val-d'Oise",
-    "971": "Guadeloupe",
-    "972": "Martinique",
-    "973": "Guyane",
-    "974": "La Réunion",
-    "975": "Saint-Pierre-et-Miquelon",
-    "976": "Mayotte",
+    "95": "Val-d'Oise"
 }
 
 base_url1 = "https://static.data.gouv.fr/resources/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2021/20231005-094229/usagers-"
